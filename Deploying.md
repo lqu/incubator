@@ -50,7 +50,7 @@ in preparing each image.
 
 The machine images built *can* depend on Heat metadata, or they can just
 contain configured Chef/Puppet/Salt credentials, depending on how much of
-TripleO is in use. Avoiding Heat is useful when doing a incremental adoption
+TripleO is in use. Avoiding Heat is useful when doing an incremental adoption
 of TripleO (see later in this document).
 
 ## Baremetal machine deployment
